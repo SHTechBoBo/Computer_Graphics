@@ -22,9 +22,10 @@ There are four parameters that can be changed in `main.py` :
 ## Result
 
 <center class="half">
-<img src=".\assets\lenna.png" width=50%/>
-<img src=".\results\lenna_K100_M0.2\Iteration10.png" width=50%/>
+<img src=".\assets\lenna.png" width=30%/>
+<img src=".\results\lenna_K100_M0.2\Iteration10.png" width=30%/>
 </center>
+
 
 
 

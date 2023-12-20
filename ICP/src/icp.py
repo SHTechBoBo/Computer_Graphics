@@ -124,7 +124,7 @@ class ICP:
     def save_figure(self, name):
         # close screen and set size
         mlab.options.offscreen = True
-        figure = mlab.figure(bgcolor=(1, 1, 1), size=(1920, 1080))
+        figure = mlab.figure(bgcolor=(1, 1, 1), size=(512, 512))
 
         self.transformation_source_point_cloud()
         point_cloud_np1 = self.pc_temp.points

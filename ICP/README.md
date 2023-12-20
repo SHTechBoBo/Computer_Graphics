@@ -20,9 +20,10 @@ There are one parameters that can be changed in `main.py` :
 ## Result
 
 <center class="half">
-<img src=".\results\1\1_initial.png" width=50%/>
-<img src=".\results\1\1_iter_9.png" width=50%/>
+<img src=".\results\1\1_initial.png" width=30%/>
+<img src=".\results\1\1_iter_9.png" width=30%/>
 </center>
+
 
 
 
